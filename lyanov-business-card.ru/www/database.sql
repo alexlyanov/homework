@@ -25,17 +25,6 @@ USE `lyanov_business_card`;
 -- --------------------------------------------------------
 
 --
--- Структура таблицы `test`
---
-
-DROP TABLE IF EXISTS `test`;
-CREATE TABLE IF NOT EXISTS `test` (
-  `id` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
--- --------------------------------------------------------
-
---
 -- Структура таблицы `user_comments`
 --
 
